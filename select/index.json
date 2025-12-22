@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "第一夜",
+  "base_artist": "ヨルシカ",
+  "createdAt": "2025-12-22T14:19:45.403542Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "第一夜",
+      "artist": "Yorushika",
+      "has_synced": false,
+      "path": "select/01_第一夜_Yorushika.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "第一夜",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/02_第一夜_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "第一夜 - The First Night",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/03_第一夜_-_The_First_Night_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "第一夜; Dai ichi-yo",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/04_第一夜;_Dai_ichi-yo_Yorushika.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "第一夜",
+      "artist": "ヨルシカ",
+      "has_synced": false,
+      "path": "select/pl_01_第一夜_ヨルシカ.txt"
+    }
+  ]
+}
