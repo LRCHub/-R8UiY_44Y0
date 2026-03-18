@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "第一夜",
   "base_artist": "ヨルシカ",
-  "createdAt": "2025-12-22T14:19:45.403542Z",
+  "createdAt": "2026-03-18T06:40:33.901276Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -43,6 +43,24 @@
       "artist": "ヨルシカ",
       "has_synced": false,
       "path": "select/pl_01_第一夜_ヨルシカ.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "第一夜",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/localdb_01_第一夜_ヨルシカ.lrc",
+      "repo_name": "gChVHq5XdxM"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "第一夜",
+      "artist": "ヨルシカ",
+      "has_synced": false,
+      "path": "select/localdb_02_第一夜_ヨルシカ.txt",
+      "repo_name": "-R8UiY_44Y0"
     }
   ]
 }
